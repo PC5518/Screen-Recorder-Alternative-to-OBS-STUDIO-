@@ -3,7 +3,7 @@
 Lightweight. Clean. No bloat.  
 A fully Python-based screen recording tool with area selection — built from scratch as an ultra-light alternative to OBS Studio.  
 No GPU overload. No overheating. Just what you need: pick an area and start recording.
-
+DEMO VIDEO THAT HOW IT WORKS : "https://youtu.be/uU-oeBjNfHg"
 ---
 
 ## 💡 Why I Built This
