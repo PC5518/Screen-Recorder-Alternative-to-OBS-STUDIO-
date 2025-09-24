@@ -87,9 +87,8 @@ This project helped me explore all of that.
 
 ---
 
-## 🖼️ Preview (Optional)
-
-> You can upload a screenshot or screen-recording gif like this:
+<img width="1157" height="551" alt="image" src="https://github.com/user-attachments/assets/4eeb3786-d584-45f5-87e0-a21ea7e5e2fc" />
+<img width="1257" height="691" alt="image" src="https://github.com/user-attachments/assets/23a3ac9e-4f10-4ead-ac15-fd459aad8f71" />
 
 
 ---
